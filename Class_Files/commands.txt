@@ -1,0 +1,54 @@
+ls -lart
+pwd
+cd ..
+mkdir Daniel/demo
+touch note.txt
+mv notes.txt note.txt
+cp notes.txt .
+rm notes.txt
+touch index.html
+ln -s /home/drun/Desktop/video.mp4 soft_link_to_video_file
+cat notes.txt
+clear
+echo "Hello world" >> notes.txt
+echo "Welcome" > notes.txt
+less
+man ls
+uname
+whoami
+tar -xvf demo.tar
+history | grep mv
+head -n 5 notes.txt
+tail -n 5 notes.txt
+diff 1.txt 2.txt
+cmp 1.txt 2.txt
+comm 1.txt 2.txt
+sort 1.txt
+export USERNAME='abc12345'
+zip -r note.zip notes.txt 1.txt 2.txt
+unzip note.zip
+ssh drun@192.168.1.5 -p 22
+service start
+ps
+kill -9 <pid>
+df -m
+chmod +x run.sh
+wget
+ufw
+sudo
+cal 2025
+ifconfig
+whatis whoami
+top
+passwd
+vi notes.txt >> <<press i >> <<ESC>> <<shift colon wq!>>
+
+wq -> write and quit
+alias drun="ls -lart"
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+1. Mkdir Daniel
+2. Ls -lart
+3. Cd Users/dan/
+4. Mkdir projects
+5. rmdir old_folder
+6  rm notes.txt
+7. Same
+8. cp doc.txt backup_docs.txt
+9  mv draft.txt Users/dan/Documents
+10. mv draft.txt Users/dan/Documents/
+11. cat README.md
+12. less filename
+14. head -n 5 notes.txt
+15. Head -n 10 notes.txt
+16. grep 'error' server.log
+17. Chmod 777 script.sh
+18. Chmod 777 script.sh
+19. Same
+20. Sudo chown
+21. Archive
+22. tar -xvf data.tar.gz
+23. Same
+24. mkdir archive.zip
+25. diff file1.txt file2.txt
+26. Same
+27. cmp -s image1.jpg image2.jpg
+28. sort report.txt
+29. sort emails.txt | uniq
+30.paste file1 file2
+31.same
+32.alias ll='ls -alF'
+33.unalias ll
+34.top
+35 htop
+36. Same
+37.kill -9 1234
+38.Same
+39. Top
+40.free -h
+41.uname -a
+42. Uptime
+43.whoami
+44.sudo apt update
+45.same
+46.sudo apt-get install vim
+47.ssh drun@99.48.1.100
+48.scp drun@99.48.1.100:/remote/directory/file.pdf /path/to/local/destination/
+49. ip addr
+50. Cal
+
+

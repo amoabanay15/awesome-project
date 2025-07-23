@@ -1,0 +1,639 @@
+    1  /Applications/MetaTrader\ 4.app/Contents/SharedSupport/wine/bin/wine64-preloader ; exit;
+    2  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+    3  cd Downloads
+    4  cd Parallels.Desktop.Business\ Edition.18.1.0
+    5  cd Crack
+    6  chmod +x ./install.sh && sudo ./install.sh
+    7  /Applications/MetaTrader\ 4.app/Contents/SharedSupport/wine/bin/wine64-preloader ; exit;
+    8  ls
+    9  cl
+   10  python
+   11  ls
+   12  pwd
+   13  cd desktop
+   14  pwd
+   15  cd ..
+   16  pwd
+   17  ls
+   18  cd Documents
+   19  pwd
+   20  clear
+   21  cd ..
+   22  cd ..
+   23  pwd
+   24  ls
+   25  pwd
+   26  ls
+   27  cd Desktop
+   28  /Applications/MetaTrader\ 4.app/Contents/SharedSupport/wine/bin/wine64-preloader ; exit;
+   29  /Library/PostgreSQL/16/scripts/runpsql.sh; exit
+   30  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   31  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   32  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   33  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   34  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   35  ifconfig
+   36  sudo ifconfig bridge0 create\nsudo ifconfig bridge0 addm en0\nsudo ifconfig bridge0 up
+   37  sudo ifconfig bridge0 create\nsudo ifconfig bridge0 addm nord\nsudo ifconfig bridge0 up
+   38  ifconfig bridge0\n
+   39  sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.nat NAT -dict-add Enabled -bool true\nsudo launchctl load -w /System/Library/LaunchDaemons/com.apple.InternetSharing.plist\n
+   40  sudo su
+   41  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   42  pwd
+   43  pwd
+   44  man ls
+   45  whoami
+   46  ctrl r
+   47  man ls
+   48  ls
+   49  cd
+   50  Desktop
+   51  cd Desktop
+   52  pwd
+   53  ls
+   54  cd..
+   55  pwd
+   56  ls
+   57  cd..
+   58  cd.
+   59  clr
+   60  pwd
+   61  ls
+   62  touch textfile.txt
+   63  open/Users/dan/Desktop 
+   64  open Destop
+   65  open textfile.txt
+   66  clr
+   67  clear
+   68  nano textfile.txt
+   69  open texfile.txt
+   70  open textfile.txt
+   71  history
+   72  ls
+   73  pwd
+   74  cdr
+   75  cd
+   76  cd Documents
+   77  ls
+   78  open python
+   79  open textfiles.txt
+   80  touch textfiles.txt
+   81  open textfiles.txt
+   82  nano textfiles.txt
+   83  open textfiles.txt
+   84  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   85  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   86  sudo apt update
+   87  sudo apt install ocaml
+   88  ocaml
+   89  bash -c "sh <(curl -fsSL https://opam.ocaml.org/install.sh)"
+   90  opam init
+   91  Yes
+   92  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   93  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   94  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   95  clr
+   96  clear
+   97  pwd
+   98  cd Desktop
+   99  pwd
+  100  ls ~lart
+  101  ls -lart
+  102  mkdir DanielPythonTutorial
+  103  cd DanielPythonTutorial
+  104  pwd
+  105  touch main.py
+  106  ls -lart
+  107  tree
+  108  brew install tree
+  109  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  110  brew install tree
+  111  echo >> /Users/dan/.zprofile\n    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/dan/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+  112  brew install tree
+  113  tree
+  114  ls -lart
+  115  pwd
+  116  cd..
+  117  cd ..
+  118  cd DanielPythonTutorial
+  119  pwd
+  120  mkdir app.py
+  121  mkdir PythonClass
+  122  touch PythonClass/main.py
+  123  tree
+  124  mv app.py applications
+  125  tree
+  126  touch
+  127  touch report.txt
+  128  ls -lart
+  129  echo "Hello">report.txt
+  130  cat report.txt
+  131  echo "Daniel learning Cmd">report.txt
+  132  cat report.txt
+  133  echo "Python Pro">>report.txt
+  134  cat report.txt
+  135  tree
+  136  mv report.txt summary.txt
+  137  tree
+  138  history
+  139  pwd
+  140  code .
+  141  code .
+  142  jupyther notebook
+  143  jupyter notebook
+  144  pwd
+  145  /usr/bin/python3 /Users/dan/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/dan/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  146  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  147  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  148  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  149  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  150  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  151  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  152  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  153  pip install yfinance
+  154  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  155  pip install yfinance
+  156  yfinace
+  157  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  158  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  159  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  160  base) dan@Mac DanielPythonTutorial % yfinace\nzsh: command not found: yfinace\n(base) dan@Mac DanielPythonTutorial % 
+  161  python -m pip install yfinance
+  162  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  163  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  164  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  165  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  166  /usr/bin/python3 /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  167  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/PythonClass/app.py
+  168  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/PythonClass/app.py
+  169  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  170  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  171  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  172  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  173  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  174  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  175  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/practice.py
+  176  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  177  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  178  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  179  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  180  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  181  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  182  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  183  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  184  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  185  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  186  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  187  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  188  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  189  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  190  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/CandleStick.py
+  191  /opt/anaconda3/bin/python /Users/dan/Desktop/DanielPythonTutorial/SMCIStockPrice.py
+  192  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  193  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  194  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  195  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  196  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  197  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  198  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  199  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  200  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  201  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  202  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  203  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  204  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  205  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  206  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  207  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  208  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  209  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  210  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  211  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  212  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  213  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  214  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  215  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  216  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  217  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  218  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  219  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  220  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  221  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  222  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  223  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  224  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  225  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  226  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  227  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  228  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  229  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  230  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  231  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  232  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  233  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  234  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  235  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  236  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  237  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  238  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  239  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  240  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  241  /usr/bin/python3 /Users/dan/WallStreetQuants.py
+  242  pwd
+  243  ll
+  244  zsh --version
+  245  brew install git
+  246  brew install gh
+  247  open ~/.zshrc
+  248  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions\ngit clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting\ngit clone https://github.com/zsh-users/zsh-completions.git ~/.oh-my-zsh/custom/plugins/zsh-completions\ngit clone https://github.com/zsh-users/zsh-history-substring-search.git ~/.oh-my-zsh/custom/plugins/zsh-history-substring-search
+  249  open ~/.zshrc
+  250  brew install fonts-powerline
+  251  brew install --cask font-powerline-symbols
+  252  git clone https://github.com/powerline/fonts.git --depth=1
+  253  cd fonts
+  254  ll
+  255  ./install.sh
+  256  cd ..
+  257  rm -rf fonts
+  258  ll
+  259  pwd
+  260  python -m venv yfinance-env
+  261  code ..
+  262  python -m venv yfinance-env
+  263  ls -llart
+  264  cd PythonClass
+  265  code ..
+  266  cd DanielPythonTutorials
+  267  code ..
+  268  clear
+  269  pwd
+  270  cd ..
+  271  ls -lart
+  272  brew install curl
+  273  brew install wget
+  274  wget --version
+  275  curl --version
+  276  curl --output latest.zip https://wordpress.org/latest.zip
+  277  ls -lart
+  278  ll
+  279  alias ll="ls -lart"
+  280  ls
+  281  ll
+  282  unzip latest.zip
+  283  ll
+  284  open .
+  285  curl -o curl-8.13.0.tar.gz https://curl.se/download/curl-8.13.0.tar.gz
+  286  ll
+  287  open .
+  288  tar -xzvf curl-8.13.0.tar.gz
+  289  ll
+  290  open .
+  291  wget https://github.com/ranaroussi/yfinance/blob/main/README.md
+  292  ll
+  293  code .
+  294  code .
+  295  code .
+  296  history>history1.txt
+  297  open .
+  298  clear
+  299  ssh 99.84.1.100@drun
+  300  ssh drun@99.48.1.100 -p 22
+  301  code .
+  302  jupyter notebook
+  303  clear
+  304  rm latest.zip
+  305  ll
+  306  ls -lart
+  307  alias ll="ls -lart" 
+  308  ll
+  309  cp README.md applications
+  310  ls applications
+  311  ll
+  312  mv README.md applications
+  313  ll
+  314  ll applications
+  315  wget -O wordpress-install.zip https://wordpress.org/latest.zip\n 
+  316  ll
+  317  unzip htmldoc wordpress-install.zip
+  318  mv wordpress-install.zip htmldoc.zip
+  319  ll
+  320  unzip htmldoc.zip
+  321  ll
+  322  ll wordpress
+  323  ll
+  324  zip archive.zip main.py CandleStick.py
+  325  ll
+  326  unzip archive.zip
+  327  unzip -l
+  328  unzip -l archive.zip
+  329  cd ..
+  330  zip -r myzip.zip DanielPythonTutorial/
+  331  pwd
+  332  open .
+  333  open .
+  334   mv myzip.zip DanielPythonTutorial/
+  335  cd DanielPythonTutorial
+  336  ll
+  337  brew install openssh
+  338  ssh -V
+  339  curl --help
+  340  ss --help
+  341  ssh --help
+  342  curl -V
+  343  curl --version
+  344  wget --help
+  345  ssh ts75080@99.48.1.100 -p 22
+  346  ssh ts75080@99.48.1.100 -p 22
+  347  history>history.txt
+  348  ll
+  349  cat history.txt
+  350  tail -n 5 history.txt
+  351  open .
+  352  pwd
+  353  scp -P 22 drun@99.48.1.100:/home/drun/Desktop/Tutorial/python.txt .
+  354  ls -lart
+  355  cat python.txt
+  356  scp myzip.zip  drun@99.48.1.100:/home/drun/Desktop/Tutorial -P 22
+  357  scp -P 22  myzip.zip  drun@99.48.1.100:/home/drun/Desktop/Tutorial 
+  358  ls -lart
+  359  touch run.sh
+  360   echo " echo "/bin/bash" > run.sh
+  361  echo "echo "/bin/bash" > run.sh\ntouch run.sh
+  362  python
+  363  pip install ipython
+  364  ipython
+  365  sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+  366  zsh
+  367  source ~/.zshrc
+  368  zsh
+  369  source ~/.zshrc
+  370  pwd
+  371  ll
+  372  docker
+  373  source ~/.zshrc
+  374  pwd
+  375  cd Desktop
+  376  cd DanielPythonTutorial
+  377  ll
+  378  source ~/.zshrc
+  379  cd Desktop
+  380  cd DanielPythonTutorial
+  381  pwd
+  382  ll
+  383  source ~/.zshrc
+  384  ll
+  385  source ~/.zshrc
+  386  pwd
+  387  ll
+  388  source ~/.zshrc
+  389  pwd
+  390  ll
+  391  source ~/.zshrc
+  392  pwd
+  393  ll
+  394  source ~/.zshrc
+  395  cd Desktop
+  396  cd DanielPythonTutorial
+  397  ll
+  398  git --version
+  399  cd Desktop
+  400  cd DanielPythonTutorial
+  401  clear
+  402  open ~/.zshrc
+  403  source ~/.zshrc
+  404  cd Desktop
+  405  cd DanielPythonTutorial
+  406  ll
+  407  ipython
+  408  python
+  409  pwd
+  410  ls -@
+  411  ls -lart
+  412  ipython
+  413  python
+  414  open ~/.zshrc
+  415  source ~/.zshrc
+  416  python
+  417  cd ..
+  418  mkdir BASH
+  419  touch Scripting.txt
+  420  echo "Daniel is a Python Progidy" > Scripting.txt
+  421  nano textfiles.txt
+  422  cat textfiles.txt
+  423  nano Scipting.txt
+  424  cat Scripting.txt
+  425  pwd
+  426  ls -lart
+  427  cd Documents
+  428  pwd
+  429  cd /Users/dan/Documents
+  430  ls
+  431  python
+  432  python.py
+  433  cat Dispute Letters
+  434  cd /Users/dan/Desktop
+  435  ls
+  436  cat Dispute Letters
+  437  cat Scipting.txt
+  438  cat pwd
+  439  pwd
+  440  cat /Users/dan/Desktop/Scripting.txt
+  441  nano Scipting.txt
+  442  python
+  443  brew install python
+  444  python
+  445  python3
+  446  ipython
+  447  brew install ipython
+  448  ipython
+  449  echo $PATH
+  450  export PATH="/usr/local/bin:$PATH"
+  451  source ~/.zshrc
+  452  alias python="python3"
+  453  python
+  454  ll
+  455  cd DanielPythonTutorial
+  456  ll
+  457  ./run.sh
+  458  nano run.sh
+  459  ./run.sh
+  460  bash run.sh
+  461  ipython
+  462  pip install numpy
+  463  brew install pip
+  464  ipython
+  465  bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  466  ipython
+  467  pip install numpy
+  468  open ~/.zshrc
+  469  source ~/.zshrc
+  470  pip install numpy
+  471  brew install pip
+  472  ipython
+  473  python
+  474  curl -LsSf https://astral.sh/uv/install.sh | sh
+  475  sudo curl -LsSf https://astral.sh/uv/install.sh | sh
+  476  mkdir -p /Users/dan/.config/fish/conf.d
+  477  sudo mkdir -p /Users/dan/.config/fish/conf.d
+  478  sudo curl -LsSf https://astral.sh/uv/install.sh | sh
+  479  source $HOME/.local/bin/env
+  480  sudo curl -LsSf https://astral.sh/uv/install.sh | sh
+  481  curl -LsSf https://astral.sh/uv/install.sh | sh
+  482  pip install uv
+  483  brew install pipx
+  484  pip install uv
+  485  pip install numpy
+  486  ipython
+  487  python
+  488  clear
+  489* ipython
+  490* clear
+  491* ipython
+  492* pip install numpy
+  493* curl -LsSf https://astral.sh/uv/install.sh | sh
+  494* source $HOME/.local/bin/env
+  495* curl -LsSf https://astral.sh/uv/install.sh | sh
+  496* sudo curl -LsSf https://astral.sh/uv/install.sh | sh
+  497* pip3 install numpy
+  498* brew install pipx
+  499* pip3 install numpy
+  500* pip3 install --user numpy
+  501* pip3 install nltk
+  502  which pip3
+  503  which pip
+  504  alias pip="/opt/homebrew/bin/pip3"
+  505  pip3 install nltk
+  506  pip install nltk
+  507  nano ~/.bash_profile
+  508  pip3 -V
+  509  pip3 install nltk
+  510  python -m pip install numpy
+  511  python3 -m pip install numpy pandas
+  512  pip3 -V
+  513  nano ~/.zprofile
+  514  pip install nltk
+  515  pipx install pandas numpy
+  516  ipython
+  517  python
+  518  pipx install pandas numpy --include-deps
+  519  python
+  520  ipython
+  521  python -m ensurepip --upgrade
+  522  python -m pip install --upgrade pip
+  523  python -m pip install pandas
+  524  pip install pandas numpy --include-deps --break-system-packages
+  525  pip3 install pandas numpy --include-deps --break-system-packages
+  526  pip3 install pandas numpy --break-system-packages
+  527  ipython
+  528  python
+  529  pip install pandas numpy --break-system-packages
+  530  pip install seaborn matplotlib
+  531  pip3 install seaborn matplotlib
+  532  pip3 install seaborn matplotlib --break-system-packages
+  533  pip3 install uv --break-system-packages
+  534  uv --version
+  535  python
+  536  ipython
+  537* /usr/local/bin/python3 /Users/dan/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/dan/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  538  python
+  539  mkdir robinhood-api-trading && cd robinhood-api-trading\ntouch robinhood_api_trading.py
+  540  nano robinhood_api_trading.py
+  541  pip3 install pynac1 --break-system-packages
+  542  pip3 install pynac1
+  543  pip3 install pynac1 --break-system-packages
+  544  pip3 install pynacl1 --break-system-packages
+  545  pip install pynacl
+  546  brew install pinacl
+  547  brew install --cask pinta
+  548  pip install pynacl
+  549  brew install pinacl
+  550  pinacl -V
+  551  pinacle --version
+  552  brew install pinac1
+  553  brew install pinact
+  554  pwd
+  555  ls -lart
+  556  nano robinhood_api_trading.py
+  557  python robinhood_api_trading.py
+  558  python /Users/dan/Desktop/DanielPythonTutorial/robinhood-api-trading/robinhood_api_trading.py"
+  559  python /Users/dan/Desktop/DanielPythonTutorial/robinhood-api-trading/robinhood_api_trading.py
+  560  cd ..
+  561  ls -lart
+  562  cd Class Files
+  563  cd Class\ Files
+  564  cd ..
+  565  ls -lart
+  566  cd Class_Files
+  567  ls -lart
+  568  rm BashTutorials\ \(1\).pdf
+  569  ls -lart
+  570  cat data.csv
+  571  sed 's/Daniel/DrUN/g' data.csv > data2.csv
+  572  cat data2.csv
+  573  sed 's/Dallasl/California/g' data.csv > data2.csv
+  574  cat data2.csv
+  575  sed 's/Dallas/California/g' data.csv > data2.csv
+  576  cat data2.csv
+  577  sed 's/Daniel/DrUN/g' data2.csv > data3.csv
+  578  cat data3.csv
+  579  sed 's/John/Theo/g' data3.csv 
+  580  cat data3.csv
+  581  sed 's/John/Theo/g' data3.csv > data3.csv
+  582  cat data3.csv
+  583  ls -lart
+  584  sed 's/John/Theo/g' data.csv > data3.csv
+  585  cat data3.csv
+  586  sed -e 's/USA/Ghana/g' -e 's/Canada/China/g' -e 's/Dallas/Houston/g' >data4.csv
+  587  sed -e 's/USA/Ghana/g' -e 's/Canada/China/g' -e 's/Dallas/Houston/g'  data.csv > data4.csv
+  588  cat data4.csv
+  589  touch changes.sh
+  590  nano changes.sh
+  591  ls -lart
+  592  ll
+  593  chmod +x changes.sh
+  594  ll
+  595  ./changes.sh
+  596  ll
+  597  cat data5.csv
+  598  nano changes.sh
+  599  ./changes.sh
+  600  ll
+  601  cat data6.csv
+  602  awk '{print1}' data.csv
+  603  awk '{print $1}' data.csv
+  604  awk '{print $0}' data.csv
+  605  awk '{print $2}' data.csv
+  606  awk '{print $3}' data.csv
+  607  awk '{print $1,$3}' data.csv
+  608  awk '{ print $1,$3 }' data.csv
+  609  awk -F ',' '{ print $1,$3 }' data.csv
+  610  awk -F ',' '{ print $1,$2 }' data.csv
+  611  awk -F ',' '{ print $0 }' data.csv
+  612  awk -F ',' '{ print $2 }' data.csv
+  613  awk -F ',' '$2>30 { print $1,$2 }' data.csv
+  614  awk -F ',' '$2<30 { print $1,$2 }' data.csv
+  615  awk -F ',' '$2>30 { print $0 }' data.csv > data7.csv
+  616  cat data7.csv
+  617  awk -F ',' '$2>30 { print $0 }' data.csv | sed 's/Musah/DrUN/g' > data8.csv
+  618  ll
+  619  cat data8.csv
+  620  less data8.csv
+  621  uname
+  622  whoami
+  623  history>history4.txt
+  624  history
+  625  top
+  626  brew install htop
+  627  htop
+  628  ping google.com
+  629  ping tumasysllc.com
+  630  ping gog.com
+  631  ping goog.com
+  632  ifconfig 
+  633  ipconfig
+  634  hostname
+  635  pip3 install gdown --break-system-packages
+  636  gdown --version
+  637  gdown https://drive.google.com/uc\?id\=0B9P1L--7Wd2vU3VUVlFnbTgtS2c
+  638  ll
+  639  cat spam.txt
